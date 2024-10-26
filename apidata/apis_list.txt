@@ -1,0 +1,730 @@
+Cat Facts___Daily cat facts___https://alexwohlbruck.github.io/cat-facts/
+Cats___Pictures of cats from Tumblr___https://docs.thecatapi.com/
+Cataas___Cat as a service (cats pictures and gifs)___https://cataas.com/
+Dog API___Fun facts on dog breeds and groups___https://dogapi.dog/
+Dogs___Based on the Stanford Dogs Dataset___https://dog.ceo/dog-api/
+Foxes___Random fox images with different tags___https://foxes.cool/
+HTTPCat___Cat for every HTTP Status___https://http.cat/
+HTTP Dogs___Dogs for every HTTP status code___https://http.dog/
+IUCN___IUCN Red List of Threatened Species___http://apiv3.iucnredlist.org/api/v3/docs
+Movebank___Movement and Migration data of animals___https://github.com/movebank/movebank-api-doc
+Petfinder___Adoption___https://www.petfinder.com/developers/v2/docs/
+RandomBigCat___Random pictures of big cats___https://randombig.cat/roar.json
+RandomDog___Random pictures of dogs___https://random.dog/woof.json
+RandomFox___Random pictures of foxes___https://randomfox.ca/floof/
+RescueGroups___Adoption___https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
+Shibe.Online___Random pictures of Shibu Inu, cats or birds___http://shibe.online/
+AniList___Anime discovery & tracking___https://github.com/AniList/ApiV2-GraphQL-Docs
+AnimeNewsNetwork___Anime industry news___https://www.animenewsnetwork.com/encyclopedia/api.php
+Jikan___Unofficial MyAnimeList API___https://jikan.moe/
+Kitsu___Anime discovery platform___http://docs.kitsu.apiary.io/
+What Anime___Scan anime image to get specific detail___https://soruly.github.io/trace.moe-api/#/
+Mangadex___ad-free manga reader offering high-quality images___https://api.mangadex.org/docs/
+AbuseIPDB___IP/domain/URL reputation___https://docs.abuseipdb.com/
+Google Safe Browsing___Google Link/Domain Flagging___https://developers.google.com/safe-browsing/
+Metacert___Metacert Link Flagging___https://metacert.com/
+VirusTotal___VirusTotal File/URL Analysis___https://www.virustotal.com/en/documentation/public-api/
+Web Of Trust (WOT)___Website reputation___https://www.mywot.com/en/API
+Behance___Design___https://www.behance.net/dev
+Cooper Hewitt___Smithsonian Design Museum___https://collection.cooperhewitt.org/api
+Dribbble___Design___http://developer.dribbble.com/v2/
+Europeana___European Museum and Galleries content___https://pro.europeana.eu/resources/apis/search
+Harvard Art Museums___Art___https://github.com/harvardartmuseums/api-docs
+Iconfinder___Icons___https://developer.iconfinder.com/
+Icons8___Icons___http://docs.icons8.apiary.io/#reference/0/meta
+Noun Project___Icons___http://api.thenounproject.com/index.html
+Rijksmuseum___Art___https://www.rijksmuseum.nl/en/api
+Metropolitan Museum of Art___Art___https://metmuseum.github.io/
+Bhagavad Gita___Bhagavad Gita text___https://bhagavadgita.io/api
+British National Bibliography___Books___http://bnb.data.bl.uk/
+Google Books___Books___https://developers.google.com/books/
+Open Library___Books, book covers and related data___https://openlibrary.org/developers/api
+Penguin Publishing___Books, book covers and related data___http://www.penguinrandomhouse.biz/webservices/rest/
+Rig Veda___Gods and poets, their categories, and the verse meters, with the mandal and sukta number___https://aninditabasu.github.io/indica/
+Vedic Society___Descriptions of all nouns (names, places, animals, things) from vedic literature___https://aninditabasu.github.io/indica/html/vs.html
+Charity Search___Non-profit charity data___http://charityapi.orghunter.com/
+Clearbit Logo___Search for company logos and embed them in your projects___https://clearbit.com/docs#logo-api
+Domain (LabStack)___Search domain for availability, lookup DNS & whois record of a domain___https://labstack.com/domain
+Domainsdb.info___Registered Domain Names Search___https://domainsdb.info/
+Freelancer___Hire freelancers to get work done___https://developers.freelancer.com/
+Gmail___Flexible, RESTful access to the user's inbox___https://developers.google.com/gmail/api/
+Google Analytics___Collect, configure and analyze your data to reach the right audience___https://developers.google.com/analytics/
+MailboxValidator___Validate email address to improve deliverability___https://www.mailboxvalidator.com/api-single-validation
+mailgun___Email Service___https://www.mailgun.com/
+Mailjet___Email Service___https://www.mailjet.com/
+markerapi___Trademark Search___http://www.markerapi.com/
+Repetiti___Repetiti 3d Printer Management Service, access and control 3d Printers easily___https://developers.repetiti.com/
+Ticksel___Friendly website analytics made for humans___https://ticksel.com/
+Trello___Boards, lists and cards to help you organize and prioritize your projects___https://developers.trello.com/
+Tomba Email finder___Email Finder for B2B sales and email marketing___https://tomba.io/
+Abstract's Holiday API___National, regional, and religious holidays for 120+ countries & 100+ years___https://www.abstractapi.com/holidays-api
+Calendar Index___Worldwide Holidays and Working Days___https://www.calendarindex.com/
+Church Calendar___Catholic liturgical calendar___http://calapi.inadiutorium.cz/
+Czech Namedays Calendar___Lookup for a name and returns nameday date___http://svatky.adresa.info/
+Google Calendar___Display, create and modify Google calendar events___https://developers.google.com/google-apps/calendar/
+Hebrew Calendar___Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc___https://www.hebcal.com/home/developer-apis
+Holiday API___Enterprise-grade holiday and observance API for developers by developers___https://holidayapi.pl/
+Holidays___Historical data regarding holidays___https://holidayapi.com/
+Non-working Days___Simple API for checking working, non-working or short days for Russia, Ukraine, Belarus and Kazakhstan___https://isdayoff.ru/
+Nager.Date___Public holidays for more than 90 countries___https://date.nager.at/
+Namedays Calendar___Provides namedays for multiple countries___https://api.abalin.net/
+Non-Working Days___Database of ICS files for non working days___https://github.com/gadael/icsdb
+Russian Calendar___Check if a date is a Russian holiday or not___https://github.com/egno/work-calendar
+TimeZones iCal Library___Database of official time zones and corresponding iCal VTIMEZONE blocks___https://tz.add-to-calendar-technology.com/
+AnonFiles___File Sharing and Storage___https://anonfiles.com/docs/api
+Box___File Sharing and Storage___https://developer.box.com/
+Dropbox___File Sharing and Storage___https://www.dropbox.com/developers
+Google Drive___File Sharing and Storage___https://developers.google.com/drive/
+OneDrive___File Sharing and Storage___https://dev.onedrive.com/
+Pastebin___Plain Text Storage___https://pastebin.com/api/
+WeTransfer___File Sharing___https://developers.wetransfer.com/
+CircleCI___Automate the software development process using continuous integration and continuous delivery___https://circleci.com/docs/api/v2/
+Codeship___Codeship is a Continuous Integration Platform in the cloud___https://apidocs.codeship.com/
+Travis CI___Sync your GitHub projects with Travis CI to test your code in minutes___https://docs.travis-ci.com/api/
+Binance___Exchange for Trading Cryptocurrencies based in China___https://github.com/binance-exchange/binance-official-api-docs
+Bitquery___Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool___https://bitquery.io/
+BitcoinAverage___Digital Asset Price Data for the blockchain industry___https://apiv2.bitcoinaverage.com/
+BitcoinCharts___Financial and Technical Data related to the Bitcoin Network___https://bitcoincharts.com/about/exchanges/
+Bitmex___Real-Time Cryptocurrency derivatives trading platform based in Hong Kong___https://www.bitmex.com/app/apiOverview
+Bithumb___Cryptocurrency Trading Platform___https://apidocs.bithumb.com/
+Block___Bitcoin Payment, Wallet & Transaction Data___https://www.block.io/docs/basic
+Blockchain___Bitcoin Payment, Wallet & Transaction Data___https://www.blockchain.info/api
+BlockFacts___Real-time crypto data from multiple exchanges via a single unified API, and much more___https://blockfacts.io/
+CoinAPI___All Currency Exchanges integrate under a single api___https://docs.coinapi.io/
+Coinbase___Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices___https://developers.coinbase.com/
+Coinbase Pro___Cryptocurrency Trading Platform___https://docs.pro.coinbase.com/#api
+CoinDesk___Bitcoin Price Index___http://www.coindesk.com/api/
+CoinGecko___Cryptocurrency Price, Market, and Developer/Social Data___http://www.coingecko.com/api
+Coinigy___Interacting with Coinigy Accounts and Exchange Directly___https://coinigy.docs.apiary.io/
+CoinLayer___Real-time Crypto Currency Exchange Rates___https://coinlayer.com/
+Coinlib___Crypto Currency Prices___https://coinlib.io/apidocs
+Coinlore___Cryptocurrencies prices, volume and more___https://www.coinlore.com/cryptocurrency-data-api
+CoinMarketCap___Cryptocurrencies Prices___https://coinmarketcap.com/api/
+Coinpaprika___Cryptocurrencies prices, volume and more___https://api.coinpaprika.com/
+CoinRanking___Live Cryptocurrency data___https://docs.coinranking.com/
+Covalent___Multi-blockchain data aggregator___https://www.covalenthq.com/docs/api/
+CryptoCompare___Cryptocurrencies Comparison___https://www.cryptocompare.com/api#
+Cryptonator___Cryptocurrencies Exchange Rates___https://www.cryptonator.com/api/
+CurrencyAPI___Currency Conversion API___https://currencyapi.com/
+Gates.io___Blockchain Assets Exchange___https://www.gate.io/api2
+Gemini___Cryptocurrencies Exchange___https://docs.gemini.com/rest-api/
+MEXC Global___Crypto asset exchange for trading Marketplace___https://mxcdevelop.github.io/apidocs
+Nexchange___Automated cryptocurrency exchange service___https://nexchange2.docs.apiary.io/
+NiceHash___Largest Crypto Mining Marketplace___https://docs.nicehash.com/
+Poloniex___US based digital asset exchange___https://poloniex.com/support/api/
+WorldCoinIndex___Cryptocurrencies Prices___https://www.worldcoinindex.com/apiservice
+1Forge___Forex currency market data___https://1forge.com/forex-data-api/api-documentation
+Currencylayer___Exchange rates and currency conversion___https://currencylayer.com/documentation
+Czech National Bank___A collection of exchange rates___https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml
+ExchangeRate-API___Free currency conversion___https://www.exchangerate-api.com/
+Exchangeratesapi.io___Exchange rates with currency conversion___https://exchangeratesapi.io/
+Fixer.io___Exchange rates and currency conversion___http://fixer.io/
+Frankfurter___Exchange rates, currency conversion and time series___https://www.frankfurter.app/docs
+FxRatesAPI___Real-time exchange rates, historical rates and currency conversion___https://fxratesapi.com/
+ratesapi___Free exchange rates and historical rates___https://ratesapi.io/
+Cloudmersive Validate___Validate email addresses, phone numbers, VAT numbers and domain names___https://cloudmersive.com/validate-api
+Email (LabStack)___Instant email address verification to filter legit addresses___https://labstack.com/email
+languagelayer___Language detection___https://languagelayer.com/
+Lob.com___US Address Verification___https://lob.com/
+mailboxlayer___Email address validation___https://mailboxlayer.com/
+NumValidate___Open Source phone number validation___https://numvalidate.com/
+numverify___Phone number validation___https://numverify.com/
+Phone Validation___Validates the phone number and provides phone metadata___https://trestleiq.com/phone-validation-api/
+PurgoMalum___Content validator against profanity & obscenity___http://www.purgomalum.com/
+US Autocomplete___Enter address data quickly with real-time address suggestions___https://smartystreets.com/docs/cloud/us-autocomplete-api
+US Extract___Extract postal addresses from any text including emails___https://smartystreets.com/products/apis/us-extract-api
+US Street Address___Validate and append data for any US postal address___https://smartystreets.com/docs/cloud/us-street-api
+vatlayer___VAT number validation___https://vatlayer.com/
+Veriphone___Phone number validation & carrier lookup___https://veriphone.io/
+Scraper.run___Email address validation___https://scraper.run/
+ApyHub's Data Validation APIs___BIC and IBAN codes, academic emails, IFSC codes, Indian postcodes___https://apyhub.com/catalog/data-validation
+⬆ Back to Index______https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file#index
+24 Pull Requests___Project to promote open source collaboration during December___https://24pullrequests.com/api
+Agify.io___Estimates the age from a first name___https://agify.io/
+ApiFlash___Chrome based screenshot API for developers___https://apiflash.com/
+APIs.guru___Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs___https://apis.guru/api-doc/
+BetterMeta___Return a site's meta tags in JSON format___http://bettermeta.io/
+Bored___Find random activities to fight boredom___https://www.boredapi.com/
+Browshot___Easily make screenshots of web pages in any screen size, as any device___https://browshot.com/api/documentation
+BrowserCat___Headless browser API for automation, scraping, and more___https://www.browsercat.com/
+CDNJS___Library info on CDNJS___https://api.cdnjs.com/libraries/jquery
+Changelogs.md___Structured changelog metadata from open source projects___https://changelogs.md/
+CountAPI___Free and simple counting service. You can use it to track page hits and specific events___https://countapi.xyz/
+DigitalOcean Status___Status of all DigitalOcean services___https://status.digitalocean.com/api/v2
+Doczillla___SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code___https://www.doczilla.app/
+Dynamic QR Code___Generate dynamic and static QR Codes___https://rapidapi.com/updeploy-tools/api/qr-code-dynamic-and-static1/details
+ExtendsClass___A simple JSON store API___https://extendsclass.com/json-storage.html
+Faceplusplus___A tool to detect face___https://www.faceplusplus.com/
+Form2Channel___Send static html form submissions to Google Sheets, Email, Slack or Telegram___https://form2channel.com/
+Genderize.io___Estimates a gender from a first name___https://genderize.io/
+GitHub___Make use of GitHub repositories, code and user info programmatically___https://developer.github.com/v3/
+Gitlab___Automate GitLab interaction programmatically___https://docs.gitlab.com/ee/api/
+Gitter___Chat for GitHub___https://github.com/gitterHQ/docs
+HTTP2.Pro___Test endpoints for client and server HTTP/2 protocol support___https://http2.pro/doc/api
+IBM Text to Speech___Convert text to speech___https://console.bluemix.net/docs/services/text-to-speech/getting-started.html
+Image-Charts___Generate charts, QR codes and graph images___https://www.image-charts.com/
+import.io___Retrieve structured data from a website or RSS feed___http://api.docs.import.io/
+IP2WHOIS Information Lookup___WHOIS domain name lookup___https://www.ip2whois.com/
+ipapi.is___Public IP Address API with company, ASN and hosting detection support___https://ipapi.is/developers.html
+IPGEO___Unlimited free IP Address API with useful information___https://api.techniknews.net/ipgeo/%5BIP-Adress/Domain%5D
+IPify___A simple IP Address API___https://www.ipify.org/
+IPinfo___Another simple IP Address API___https://ipinfo.io/developers
+ArulJohn.com___A simple IP Address API in JSON___https://api.aruljohn.com/ip/json
+ArulJohn.com___A simple IP Address API in plaintext___https://api.aruljohn.com/ip
+jsDelivr___Package info and download stats on jsDelivr CDN___https://github.com/jsdelivr/data.jsdelivr.com
+JSON 2 JSONP___Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript___https://json2jsonp.com/
+JSONbin.io___Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps___https://jsonbin.io/
+Judge0___Compile and run source code___https://api.judge0.com/
+Let's Validate___Uncovers the technologies used on websites and URL to thumbnail___https://github.com/letsvalidate/api
+License-API___Unofficial REST API for choosealicense.com___https://github.com/cmccandless/license-api/blob/master/README.md
+LiveEdu___Live Coding Streaming___https://www.liveedu.tv/developer/applications/
+MAC address vendor lookup___Retrieve vendor details and other information regarding a given MAC address or an OUI___https://macaddress.io/
+MyJSON.online___A RESTful API for flexible storage of JSON data___https://myjson.online/
+Nationalize.io___Estimate the nationality of a first name___https://nationalize.io/
+OOPSpam___Multiple spam filtering service___https://oopspam.com/
+Postman___Tool for testing APIs___https://docs.api.getpostman.com/
+ProxyCrawl___Scraping and crawling anticaptcha service___https://proxycrawl.com/
+Public APIs___A collective list of free JSON APIs for use in web development___https://github.com/davemachado/public-api
+Pusher Beams___Push notifications for Android & iOS___https://pusher.com/beams
+QR Code___Create new QR Code or decode existing one___https://fungenerators.com/api/qrcode/
+QR code___Create an easy to read QR code and URL shortener___http://qrtag.net/api/
+QR code___Generate and decode / read QR code graphics___http://goqr.me/api/
+QuickChart___Generate chart and graph images___https://quickchart.io/
+ReqRes___A hosted REST-API ready to respond to your AJAX requests___https://reqres.in/
+ScraperApi___Easily build scalable web scrapers___https://www.scraperapi.com/
+ScreenshotAPI.net___Create pixel-perfect website screenshots___https://screenshotapi.net/
+Screenshots___Free capture a full screenshot of the website with high resolution and without watermarks___https://screenshotson.click/
+Shadify___Service for generating data and executing logic to create various games and puzzles___https://github.com/cheatsnake/shadify
+SHOUTCLOUD___ALL-CAPS AS A SERVICE___http://shoutcloud.io/
+StackExchange___Q&A forum for developers___https://api.stackexchange.com/
+Unixtime___Convert Unixtime to DateTime and vice versa___https://unixtime.co.za/
+XML to JSON___Integration developer utility APIs___https://developers.wso2apistore.com/
+Image to Link___Generate link from image(Integration developer utility APIs)___https://www.contentful.com/developers/docs/references/images-api/
+IPFinder___Geolocation API,ASN API,IP Ranges API,IP Firewall API,Domain API___https://ipfinder.io/
+Scraper.run___Geolocation API,lookup DNS & whois record of a domain___https://scraper.run/
+SearchApi___Real-time search engines SERP API___https://www.searchapi.io/
+Lingua Robot___Word definitions, pronunciations, synonyms, antonyms and others___https://www.linguarobot.io/
+Merriam-Webster___Dictionary and Thesaurus Data___https://dictionaryapi.com/
+OwlBot___Definitions with example sentence and photo if available___https://owlbot.info/
+Oxford___Dictionary Data___https://developer.oxforddictionaries.com/
+Wordnik___Dictionary Data___http://developer.wordnik.com/
+Words___Definitions and synonyms for more than 150,000 words___https://www.wordsapi.com/
+USGS___Earthquake Data___https://earthquake.usgs.gov/fdsnws/event/1/
+RWLabs___All types of disaster data___https://apidoc.rwlabs.org/#api-use
+PredictHQ___Events and natural disasters data___https://docs.predicthq.com/
+Cloudmersive Document and Data Conversion___HTML/URL to PDF/PNG, Office documents to PDF, image conversion___https://cloudmersive.com/convert-api
+DynamicDocs___Generate dynamic PDFs with JSON to PDF API based on LaTeX___https://advicement.io/
+File.io___File Sharing___https://www.file.io/
+Mercury___Web parser___https://reader.postlight.com/
+pdfEndpoint___HTML or URL to PDF___https://pdfendpoint.com/
+pdflayer___HTML/URL to PDF___https://pdflayer.com/
+Pocket___Bookmarking service___https://getpocket.com/developer/
+PrexView___Data from XML or JSON to PDF, HTML or Image___https://prexview.com/
+Restpack___Provides screenshot, HTML to PDF and content extraction APIs___https://restpack.io/
+Todoist___Todo Lists___https://developer.todoist.com/
+Vector Express___Free vector file converting API___http://vector.express/
+Vertopal___Convert files using Vertopal API___https://www.vertopal.com/en/developer/api
+WakaTime___Automated time tracking leaderboards for programmers___https://wakatime.com/developers
+Webpage (Labstack)___High resolution, retina display and responsive screenshot___https://labstack.com/webpage
+Current Affairs___Current International Affairs, quizzes and more___https://rapidapi.com/malaithiru370/api/current-affairs-of-india
+Secrets-APi___Used For Learning purpose Learn all security types with this api___https://secrets-api.appbrewery.com/
+AirVisual___Air quality and weather data___https://airvisual.com/api
+GrünstromIndex___Green Power Index for Germany (Grünstromindex/GSI)___https://www.corrently.de/hintergrund/gruenstromindex/index.html
+OpenAQ___Open air quality data___https://docs.openaq.org/
+AQICN___Real-time air quality index___http://aqicn.org/api
+PVWatts___Energy production photovoltaic (PV) energy systems___https://developer.nrel.gov/docs/solar/pvwatts/v6/
+UK Carbon Intensity___The Official Carbon Intensity API for Great Britain developed by National Grid___https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
+Eventbrite___Find events___https://www.eventbrite.com/developer/v3/
+SeatGeek___Search events, venues and performers___https://platform.seatgeek.com/
+Ticketmaster___Search events, attractions, or venues___http://developer.ticketmaster.com/products-and-docs/apis/getting-started/
+Alpha Vantage___Realtime and historical stock data___https://www.alphavantage.co/
+Barchart OnDemand___Stock, Futures and Forex Market Data___https://www.barchartondemand.com/free
+Financial Modeling Prep___Stock information and data___https://financialmodelingprep.com/
+IEX___Realtime stock data___https://iextrading.com/developer/
+IEX Cloud___Realtime & Historical Stock and Market Data___https://iexcloud.io/
+IG___Spreadbetting and CFD Market Data___https://labs.ig.com/gettingstarted
+Plaid___Connect with users’ bank accounts and access transaction data___https://plaid.com/
+Razorpay IFSC___Indian Financial Systems Code (Bank Branch Codes)___https://ifsc.razorpay.com/
+Indian Bank Data API___All Banks IFSC Code data,Search by IFSc or other details___https://github.com/kaustubhk24/Indian-Banks-Data
+RoutingNumbers.info___ACH/NACHA Bank Routing Numbers___https://www.routingnumbers.info/api/index.html
+Tradier___US equity/option market data (delayed, intraday, historical)___https://developer.tradier.com/
+World Trading Data___Market data provider___https://www.worldtradingdata.com/
+YNAB___Budgeting & Planning___https://api.youneedabudget.com/
+Edamam___Recipe Search___https://developer.edamam.com/
+LCBO___Alcohol___https://lcboapi.com/
+Open Brewery DB___Breweries, Cideries and Craft Beer Bottle Shops___https://www.openbrewerydb.org/
+Open Food Facts___Food Products Database___https://world.openfoodfacts.org/data
+PunkAPI___Brewdog Beer Recipes___https://punkapi.com/
+Spoonacular___Food and Recipes___https://spoonacular.com/food-api
+TacoFancy___Community-driven taco database___https://github.com/evz/tacofancy-api
+The Report of the Week___Food & Drink Reviews___https://github.com/andyklimczak/TheReportOfTheWeek-API
+TheCocktailDB___Cocktail Recipes___https://www.thecocktaildb.com/api.php
+TheMealDB___Meal Recipes___https://www.themealdb.com/api.php
+What's on the menu?___NYPL human-transcribed historical menu collection___http://nypl.github.io/menus-api/
+WhiskyHunter___Past online whisky auctions statistical data___https://whiskyhunter.net/api/
+Zestful___Parse recipe ingredients___https://zestfuldata.com/
+FraudLabs Pro___Screen order information using AI to detect frauds___https://www.fraudlabspro.com/developer/api/screen-order
+Whitepages Pro___Global identity verification with phone, address, email and IP___https://pro.whitepages.com/developer/documentation/identity-check-api/
+Whitepages Pro___Phone reputation to detect spammy phones___https://pro.whitepages.com/developer/documentation/phone-reputation-api/
+Whitepages Pro___Get an owner’s name, address, demographics based on the phone number___https://pro.whitepages.com/developer/documentation/reverse-phone-api/
+Whitepages Pro___Phone number validation, line_type, carrier append___https://pro.whitepages.com/developer/documentation/phone-intelligence-api/
+Whitepages Pro___Get normalized physical address, residents, address type and validity___https://pro.whitepages.com/developer/documentation/reverse-address-api/
+AmiiboAPI___Amiibo Information___http://www.amiiboapi.com/
+Battle.net___Blizzard Entertainment___https://dev.battle.net/
+Blue Archive___Blue Archive Game data API Characters___https://github.com/arufars/api-blue-archive
+Chuck Norris Database___Jokes___http://www.icndb.com/api/
+Clash of Clans___Clash of Clans Game Information___https://developer.clashofclans.com/
+Clash Royale___Clash Royale Game Information___https://developer.clashroyale.com/
+Comic Vine___Comics___https://comicvine.gamespot.com/api/documentation
+Cross Universe___Cross Universe Card Data___https://crossuniverse.net/apiDocs
+Deck of Cards___Deck of Cards___http://deckofcardsapi.com/
+Destiny The Game___Bungie Platform API___https://github.com/Bungie-net/api
+Dota 2___Provides information about Player stats , Match stats, Rankings for Dota 2___https://docs.opendota.com/
+Dungeons and Dragons___Reference for 5th edition spells, classes, monsters, and more___http://www.dnd5eapi.co/
+Eve Online___Third-Party Developer Documentation___https://esi.evetech.net/ui
+Final Fantasy XIV___Final Fantasy XIV Game data API___https://xivapi.com/
+Fortnite___Fortnite Stats & Cosmetics___https://fortniteapi.com/
+Fortnite___Fortnite Stats___https://fortnitetracker.com/site-api
+Forza___Random images of Forza cars___https://docs.forza-api.tk/
+Giant Bomb___Video Games___https://www.giantbomb.com/api/documentation
+Guild Wars 2___Guild Wars 2 Game Information___https://wiki.guildwars2.com/wiki/API:Main
+Halo___Halo 5 and Halo Wars 2 Information___https://developer.haloapi.com/
+Hearthstone___Hearthstone Cards Information___http://hearthstoneapi.com/
+Hypixel___Hypixel player stats___https://api.hypixel.net/
+IGDB.com___Video Game Database___https://api.igdb.com/
+Jokes One___Joke of the day and large category of jokes accessible via REST API___https://jokes.one/api/joke/
+JokeAPI___Programming, Miscellaneous and Dark Jokes___https://sv443.net/jokeapi/v2/
+Jokes___Programming and general jokes___https://github.com/15Dkatz/official_joke_api
+Jservice___Jeopardy Question Database___http://jservice.io/
+Magic The Gathering___Magic The Gathering Game Information___http://magicthegathering.io/
+Marvel___Marvel Comics___http://developer.marvel.com/
+mod.io___Cross Platform Mod API___https://docs.mod.io/
+Open Trivia___Trivia Questions___https://opentdb.com/api_config.php
+PandaScore___E-sports games and results___https://api.pandascore.co/
+PlayerUnknown's Battlegrounds___PUBG Stats___https://pubgtracker.com/site-api
+Pokéapi___Pokémon Information___https://pokeapi.co/
+Pokémon TCG___Pokémon TCG Information___https://pokemontcg.io/
+Puns___Puns and Pun Memes___https://www.punapi.rest/
+Random Facts___Random Facts from hundreds of categories___https://fungenerators.com/api/facts/
+Rick and Morty___All the Rick and Morty information, including images___https://rickandmortyapi.com/
+Riot Games___League of Legends Game Information___https://developer.riotgames.com/
+Scoresaber___Scoresaber Stats___https://scoresaber.com/api/documentation
+Scryfall___Magic: The Gathering database___https://scryfall.com/docs/api
+Steam___Steam Client Interaction___https://developer.valvesoftware.com/wiki/Steam_Web_API
+SuperHeroes___All SuperHeroes and Villains data from all universes under a single API___https://superheroapi.com/
+TCGdex___A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards___https://www.tcgdex.dev/
+Tronald Dump___The dumbest things Donald Trump has ever said___https://www.tronalddump.io/
+Wargaming.net___Wargaming.net info and stats___https://developers.wargaming.net/
+xkcd___Retrieve xkcd comics as JSON___https://xkcd.com/json.html
+administrative-divisons-db___Get all administrative divisions of a country___https://github.com/kamikazechaser/administrative-divisions-db
+adresse.data.gouv.fr___Address database of France, geocoding and reverse___https://adresse.data.gouv.fr/
+Battuta___A (country/region/city) in-cascade location API___http://battuta.medunes.net/
+Bing Maps___Create/customize digital maps based on Bing Maps data___https://www.microsoft.com/maps/
+bng2latlong___Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude___https://www.getthedata.com/bng2latlong
+CitySDK___Open APIs for select European cities___http://www.citysdk.eu/citysdk-toolkit/
+Country___Get your visitors' country from their IP___http://country.is/
+Daum Maps___Daum Maps provide multiple APIs for Korean maps___http://apis.map.daum.net/
+FreeGeoIP___Free geo ip information, no registration required. 15k/hour rate limit___https://freegeoip.app/
+GeoApi___French geographical data___https://api.gouv.fr/api/geoapi.html
+Geocod.io___Address geocoding / reverse geocoding in bulk___https://www.geocod.io/
+Geocode.xyz___Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing___https://geocode.xyz/
+Geocodify.com___Enterprise-grade geocoding and geoparsing___https://geocodify.com/
+GeoDataSource___Geocoding of city name by using latitude and longitude coordinates___https://www.geodatasource.com/web-service
+GeoJS___IP geolocation with ChatOps integration___https://geojs.io/
+Geokeo___Forward and Reverse Geocoding with 2500 free daily limit___https://geokeo.com/
+geoPlugin___IP geolocation and currency conversion___https://www.geoplugin.com/
+Google Earth Engine___A cloud-based platform for planetary-scale environmental data analysis___https://developers.google.com/earth-engine/
+Google Maps___Create/customize digital maps based on Google Maps data___https://developers.google.com/maps/
+HelloSalut___Get hello translation following user language___https://www.fourtonfish.com/hellosalut/hello/
+HERE Maps___Create/customize digital maps based on HERE Maps data___https://developer.here.com/
+Indian Cities___Get all Indian cities in a clean JSON Format___https://indian-cities-api-nocbegfhqg.now.sh/
+IP 2 Country___Map an IP to a country___https://ip2country.info/
+IP Address Details___Find geolocation with ip address___https://ipinfo.io/
+IP (LabStack)___Lookup country, region, city, time-zone, currency and language of an IP___http://labstack.com/ip
+IP Location___Find location with ip address___http://ip-api.com/
+IP Location___Find IP address location information___https://ipapi.co/
+IP Sidekick___Geolocation API that returns extra information about an IP address___https://ipsidekick.com/
+IP Vigilante___Free IP Geolocation API___https://www.ipvigilante.com/
+IP2Location___IP geolocation web service to get more than 55 parameters___https://www.ip2location.com/web-service/ip2location
+IP2Location.io___Free IP geolocation API to geolocate user's location information___https://www.ip2location.io/
+IP2Proxy___Detect proxy and VPN using IP address___https://www.ip2location.com/web-service/ip2proxy
+IPGeolocationAPI.com___Locate your visitors by IP with country details___https://ipgeolocationapi.com/
+IPInfoDB___Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address___https://ipinfodb.com/api
+ipstack___Locate and identify website visitors by IP address___https://ipstack.com/
+ipgeolocation___Find geolocation of any IP address with IP Geolocation API___https://ipgeolocation.com/
+IsItWater___A free API to determine if a lat/lon is on water or land___https://isitwater.com/
+Airtel IP___IP Geolocation API. Collecting data from multiple sources___https://sys.airtel.lv/ip2country/1.1.1.1/?full=true
+Kwelo Network___Locate and get detailed information on IP address___https://www.kwelo.com/network/ip-address
+LocationIQ___Provides forward/reverse geocoding and batch geocoding___https://locationiq.org/docs/
+Mapbox___Create/customize beautiful digital maps___https://www.mapbox.com/developers/
+Mexico___Mexico RESTful zip codes API___https://github.com/IcaliaLabs/sepomex
+One Map, Singapore___Singapore Land Authority REST API services for Singapore addresses___https://docs.onemap.sg/
+OpenCage___Forward and reverse geocoding using open data___https://opencagedata.com/
+OpenStreetMap___Navigation, geolocation and geographical data___http://wiki.openstreetmap.org/wiki/API
+PostcodeData.nl___Provide geolocation data based on postcode for Dutch addresses___http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json
+Postcodes.io___Postcode lookup & Geolocation for the UK___https://postcodes.io/
+REST Countries___Get information about countries via a RESTful API___https://restcountries.com/
+SmartIP.io___IP Geolocation and Threat Intelligence API___https://smartip.io/
+Uebermaps___Discover and share maps with friends___https://uebermaps.com/api/v2
+US Zip Codes___Complete data for US Zip Codes, distance, radius and statistics___https://www.metadapi.com/API-Products/Zip-Code-API
+US ZipCode___Validate and append data for any US ZipCode___https://smartystreets.com/docs/cloud/us-zipcode-api
+ViaCep___Brazil RESTful zip codes API___https://viacep.com.br/
+ZipCodeAPI___US zip code distance, radius and location API___https://www.zipcodeapi.com/
+Zippopotam___Get information about place such as country, city, state, etc___http://www.zippopotam.us/
+Ziptastic___Get the country, state, and city of any US zip-code___https://ziptasticapi.com/
+Autobahn API___Information about Germany's federal highways like construction sites and traffic jams___https://autobahn.api.bund.dev/
+BCLaws___Access to the laws of British Columbia___http://www.bclaws.ca/civix/template/complete/api/index.html
+BusinessUSA___Authoritative information on U.S. programs, events, services and more___https://business.usa.gov/developer
+Census.gov___The US Census Bureau provides various APIs and data sets on demographics and businesses___https://www.census.gov/data/developers/data-sets.html
+City, Lyon Opendata___Lyon(FR) City Open Data___https://data.beta.grandlyon.com/fr/accueil
+City, Bologna Opendata___Bologna(IT) City Open Data___https://dati.comune.bologna.it/
+City, Nantes Opendata___Nantes(FR) City Open Data___https://data.nantesmetropole.fr/pages/home/
+City, Prague Opendata___Prague(CZ) City Open Data___http://opendata.praha.eu/en
+Code.gov___The primary platform for Open Source and code sharing for the U.S. Federal Government___https://code.gov/
+Colorado Data Engine___Formatted and geolocated Colorado public data___http://codataengine.org/
+Colorado Information Marketplace___Colorado State Government Open Data___https://data.colorado.gov/
+Data USA___US Public Data___https://datausa.io/about/api/
+Data.gov___US Government Data___https://api.data.gov/
+Deutscher Bundestag DIP___Access to German Bundestag DIP entities (e.g. activities, persons, printed material)___https://dip.bundestag.de/%C3%BCber-dip/hilfe/api
+District of Columbia Open Data___Contains D.C. government public datasets, including crime, GIS, financial data, and so on___http://opendata.dc.gov/pages/using-apis
+EPA___Web services and data sets from the US Environmental Protection Agency___https://developer.epa.gov/category/apis/
+FEC___Information on campaign donations in federal elections___https://api.open.fec.gov/developers/
+Federal Register___The Daily Journal of the United States Government___https://www.federalregister.gov/reader-aids/developer-resources
+Food Standards Agency___UK food hygiene rating data API___http://ratings.food.gov.uk/open-data/en-GB
+Open Government, Australia___Australian Government Open Data___https://www.data.gov.au/
+Open Government, Belgium___Belgium Government Open Data___https://data.gov.be/
+Open Government, Canada___Canadian Government Open Data___http://open.canada.ca/en
+Open Government, France___French Government Open Data___https://www.data.gouv.fr/
+Open Government, India___Indian Government Open Data___https://data.gov.in/
+Open Government, Italy___Italy Government Open Data___https://www.dati.gov.it/
+Open Government, New Zealand___New Zealand Government Open Data___https://www.data.govt.nz/
+Open Government, Poland___Poland Government Open Data___https://dane.gov.pl/en
+Open Government, Romania___Romania Government Open Data___http://data.gov.ro/
+Open Government, Taiwan___Taiwan Government Open Data___https://data.gov.tw/
+Open Government, USA___United States Government Open Data___https://www.data.gov/
+Represent by Open North___Find Canadian Government Representatives___https://represent.opennorth.ca/
+USAspending.gov___US federal spending data___https://api.usaspending.gov/
+Diabetes___Logging and retrieving diabetes information___http://predictbgl.com/api/
+Flutrack___Influenza-like symptoms with geotracking___http://www.flutrack.org/
+Healthcare.gov___Educational content about the US Health Insurance Marketplace___https://www.healthcare.gov/developers/
+ICD-10 Codes___List of all healthcare diagnosis codes___https://clinicaltables.nlm.nih.gov/apidoc/icd10cm/v3/doc.html
+Lexigram___NLP that extracts mentions of clinical concepts from text, gives access to clinical ontology___https://docs.lexigram.io/v1/welcome
+Makeup___Makeup Information___http://makeup-api.herokuapp.com/
+Medicare___Access to the data from the CMS - medicare.gov___https://data.medicare.gov/developers
+NPPES___National Plan & Provider Enumeration System, info on healthcare providers registered in US___https://npiregistry.cms.hhs.gov/registry/help-api
+Nutritionix___Worlds largest verified nutrition database___https://developer.nutritionix.com/
+openFDA___Public FDA data about drugs, devices and foods___https://open.fda.gov/
+USDA Nutrients___National Nutrient Database for Standard Reference___https://ndb.nal.usda.gov/ndb/doc/index
+Adzuna___Job board aggregator___https://developer.adzuna.com/overview
+Careerjet___Job search engine___https://www.careerjet.com/partners/api/
+DevITjobs___Jobs for software developers___https://devitjobs.us/api/jobsLight
+GraphQL Jobs___Jobs with GraphQL___https://api.graphql.jobs/
+Indeed___Job board aggregator___https://www.indeed.com/publisher
+Jobicy___The latest remote job listings from a diverse range of industries and companies___https://jobicy.com/jobs-rss-feed
+Jobs2Careers___Job aggregator___http://api.jobs2careers.com/api/spec.pdf
+Jooble___Job search engine___https://us.jooble.org/api/about
+Juju___Job search engine___http://www.juju.com/publisher/spec/
+OkJob___4 day week job board___https://okjob.io/api
+Open Skills___Job titles, skills and related jobs data___https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
+Reed___Job board aggregator___https://www.reed.co.uk/developers
+Search.gov Jobs___Tap into a list of current jobs openings with the United States government___https://search.gov/developer/jobs.html
+The Muse___Job board and company profiles___https://www.themuse.com/developers/api/v2
+Upwork___Freelance job board and management system___https://developers.upwork.com/
+USAJOBS___US government job board___https://developer.usajobs.gov/
+ZipRecruiter___Job search app and website___https://www.ziprecruiter.com/publishers
+Cloudmersive___Image captioning, face recognition, NSFW classification___https://www.cloudmersive.com/image-recognition-and-processing-api
+Deepcode___AI for code review___https://www.deepcode.ai/docs/Overview%252FOverview
+Dialogflow___Natural Language Processing___https://dialogflow.com/
+Keen IO___Data Analytics___https://keen.io/
+Time Door___A time series analysis API___https://timedoor.io/
+Unplugg___Forecasting API for timeseries data___https://unplu.gg/test_api.html
+Wit.ai___Natural Language Processing___https://wit.ai/
+AI Mastering___Automated Music Mastering___https://aimastering.com/api_docs/
+Bandsintown___Music Events___https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.1
+Deezer___Music___https://developers.deezer.com/api
+Discogs___Music___https://www.discogs.com/developers/
+Freesound___Music Samples___https://freesound.org/docs/api/
+Genius___Crowdsourced lyrics and music knowledge___https://docs.genius.com/
+Genrenator___Music genre generator___https://binaryjazz.us/genrenator-api/
+iTunes Search___Software products___https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+Jamendo___Music___https://developer.jamendo.com/v3.0/docs
+KKBOX___Get music libraries, playlists, charts, and perform out of KKBOX's platform___https://developer.kkbox.com/
+LastFm___Music___https://www.last.fm/api
+Lyrics.ovh___Simple API to retrieve the lyrics of a song___http://docs.lyricsovh.apiary.io/
+Mixcloud___Music___https://www.mixcloud.com/developers/
+MusicBrainz___Music___https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
+Musixmatch___Music___https://developer.musixmatch.com/
+Openwhyd___Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)___https://openwhyd.github.io/openwhyd/API
+SearchLy___Similarities search based on song lyrics___https://www.github.com/AlbertSuarez/searchly
+Songkick___Music Events___https://www.songkick.com/developer/
+Songsterr___Provides guitar, bass and drums tabs and chords___https://www.songsterr.com/a/wa/api/
+SoundCloud___Allow users to upload and share sounds___https://developers.soundcloud.com/
+Spotify___View Spotify music catalog, manage users' libraries, get recommendations and more___https://beta.developer.spotify.com/documentation/web-api/
+TasteDive___Similar artist API (also works for movies and TV shows)___https://tastedive.com/read/api
+TheAudioDB___Music___https://www.theaudiodb.com/api_guide.php
+Vagalume___Crowdsourced lyrics and music knowledge___https://api.vagalume.com.br/docs/
+Associated Press___Search for news and metadata from Associated Press___https://developer.ap.org/
+Chronicling America___Provides access to millions of pages of historic US newspapers from the Library of Congress___http://chroniclingamerica.loc.gov/about/api/
+Currents___Latest news published in various news sources, blogs and forums___https://currentsapi.services/
+Feedbin___RSS reader___https://github.com/feedbin/feedbin-api
+New York Times___Provides news___https://developer.nytimes.com/
+News___Headlines currently published on a range of news sources and blogs___https://newsapi.org/
+NPR One___Personalized news listening experience from NPR___http://dev.npr.org/api/
+OkSurf___Free Google News with OG Images___https://ok.surf/
+The Guardian___Access all the content the Guardian creates, categorised by tags and section___http://open-platform.theguardian.com/
+The Old Reader___RSS reader___https://github.com/theoldreader/api
+18F___Unofficial US Federal Government API Development___http://18f.github.io/API-All-the-X/
+Archive.org___The Internet Archive___https://archive.readme.io/docs
+Callook.info___United States ham radio callsigns___https://callook.info/
+CARTO___Location Information Prediction___https://carto.com/
+CivicFeed___News articles and public datasets___https://developers.civicfeed.com/
+Enigma Public___Broadest collection of public data___http://docs.enigma.com/public/public_v20_api_about
+fonoApi___Mobile Device Description___https://fonoapi.freshpixl.com/
+French Address Search___Address search via the French Government___https://geo.api.gouv.fr/adresse
+Fruits___Information of fruit trees of the world___https://fruits-api.netlify.app/graphql
+LinkPreview___Get JSON formatted summary with title, description and preview image for any requested URL___https://www.linkpreview.net/
+Marijuana Strains___Marijuana strains, races, flavors and effects___http://strains.evanbusse.com/
+Microlink.io___Extract structured data from any website___https://microlink.io/
+OpenCorporates___Data on corporate entities and directors in many countries___http://api.opencorporates.com/documentation/API-Reference
+Quandl___Stock Market Data___https://www.quandl.com/
+Recreation Information Database___Recreational areas, federal lands, historic sites, museums, and other attractions/resources(US)___https://ridb.recreation.gov/
+Scoop.it___Content Curation Service___http://www.scoop.it/dev
+Teleport___Quality of Life Data___https://developers.teleport.org/
+Universities List___University names, countries and domains___https://github.com/Hipo/university-domains-list
+University of Oslo___Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)___https://data.uio.no/
+UPC database___More than 1.5 million barcode numbers from all around the world___https://upcdatabase.org/api
+Wikidata___Collaboratively edited knowledge base operated by the Wikimedia Foundation___https://www.wikidata.org/w/api.php?action=help
+Wikipedia___Mediawiki Encyclopedia___https://www.mediawiki.org/wiki/API:Main_page
+Yelp___Find Local Business___https://www.yelp.com/developers/documentation/v3
+Drupal.org___Drupal.org___https://www.drupal.org/drupalorg/docs/api
+Evil Insult Generator___Evil Insults___https://evilinsult.com/api
+Libraries.io___Open source software libraries___https://libraries.io/api
+EPO___European patent search system api___https://developers.epo.org/
+TIPO___Taiwan patent search system api___https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
+USPTO___USA patent api services___https://www.uspto.gov/learning-and-resources/open-data-and-mobility
+Advice Slip___Generate random advice slips___http://api.adviceslip.com/
+chucknorris.io___JSON API for hand curated Chuck Norris jokes___https://api.chucknorris.io/
+FavQs.com___FavQs allows you to collect, discover and share your favorite quotes___https://favqs.com/api
+Forismatic___Inspirational Quotes___http://forismatic.com/en/api/
+Hindi Quotes___Get random Hindi quotes of different categories.___https://hindi-quotes.vercel.app/
+icanhazdadjoke___The largest selection of dad jokes on the internet___https://icanhazdadjoke.com/api
+kanye.rest___REST API for random Kanye West quotes___https://kanye.rest/
+Medium___Community of readers and writers offering unique perspectives on ideas___https://github.com/Medium/medium-api-docs
+Meme___JSON API for a random meme scraped from reddit___https://github.com/D3vd/Meme_Api
+NaMoMemes___Memes on Narendra Modi___https://github.com/theIYD/NaMoMemes
+Programming Quotes___An api which generates quotes from programmers___https://programming-quotesapi.vercel.app/
+Quote Garden___REST API for more than 5000 famous quotes___https://pprathameshmore.github.io/QuoteGarden/
+Quotes on Design___Inspirational Quotes___https://quotesondesign.com/api/
+Riddles API___Get random riddles on every API call.___https://riddles-api.vercel.app/
+Traitify___Assess, collect and analyze Personality___https://app.traitify.com/developer
+tronalddump.io___Api & web archive for the things Donald Trump has said___https://www.tronalddump.io/
+Flickr___Flickr Services___https://www.flickr.com/services/api/
+Getty Images___Build applications using the world's most powerful imagery___http://developers.gettyimages.com/en/
+Giphy___Get all your gifs___https://developers.giphy.com/docs/
+Gyazo___Upload images___https://gyazo.com/api/docs
+Imgur___Images___https://apidocs.imgur.com/
+Lorem Picsum___Images from Unsplash___https://picsum.photos/
+ObjectCut___Image Background removal___https://objectcut.com/
+Pexels___Free Stock Photos and Videos___https://www.pexels.com/api/
+Pixabay___Photography___https://pixabay.com/sk/service/about/api/
+PlaceKitten___Resizable kitten placeholder images___https://placekitten.com/
+ScreenShotLayer___URL 2 Image___https://screenshotlayer.com/
+Unsplash___Photography___https://unsplash.com/developers
+Wallhaven___Wallpapers___https://wallhaven.cc/help/api
+arcsecond.io___Multiple astronomy data sources___https://api.arcsecond.io/
+CORE___Access the world's Open Access research papers___https://core.ac.uk/services#api
+GBIF___Global Biodiversity Information Facility___http://api.gbif.org/v1/
+iDigBio___Access millions of museum specimens from organizations around the world___https://github.com/idigbio/idigbio-search-api/wiki
+inspirehep.net___High Energy Physics info. system___https://inspirehep.net/info/hep/api?ln=en
+ITIS___Integrated Taxonomic Information System___https://www.itis.gov/ws_description.html
+Launch Library___Upcoming Space Launches___https://launchlibrary.net/docs/1.3/api.html
+Minor Planet Center___Asterank.com Information___http://www.asterank.com/mpc
+NASA___NASA data, including imagery___https://api.nasa.gov/
+Newton___Symbolic and Arithmetic Math Calculator___https://newton.now.sh/
+Numbers___Number of the day, random number generation, number facts and anything else you want to do with numbers___https://math.tools/api/numbers/
+Numbers___Facts about numbers___http://numbersapi.com/
+Open Notify___ISS astronauts, current location, etc___http://open-notify.org/Open-Notify-API/
+Open Science Framework___Repository and archive for study designs, research materials, data, manuscripts, etc___https://developer.osf.io/
+SHARE___A free, open, dataset about research and scholarly activities___https://share.osf.io/api/v2/
+SpaceX___Company, vehicle, launchpad and launch data___https://github.com/r-spacex/SpaceX-API
+Sunrise and Sunset___Sunset and sunrise times for a given latitude and longitude___https://sunrise-sunset.org/api
+USGS Earthquake Hazards Program___Earthquakes data real-time___https://earthquake.usgs.gov/fdsnws/event/1/
+USGS Water Services___Water quality and level info for rivers and lakes___https://waterservices.usgs.gov/
+World Bank___World Data___https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
+Censys.io___Search engine for Internet connected host and devices___https://censys.io/api
+CRXcavator___Chrome extension risk scoring___https://crxcavator.io/apidocs
+HaveIBeenPwned___Passwords which have previously been exposed in data breaches___https://haveibeenpwned.com/API/v3
+National Vulnerability Database___U.S. National Vulnerability Database___https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog
+Secrets-APi___Used For Learning purpose Learn all security types with this api___https://secrets-api.appbrewery.com/
+SecurityTrails___Domain and IP related information such as current and historical WHOIS and DNS records___https://securitytrails.com/corp/apidocs
+Shodan___Search engine for Internet connected devices___https://developer.shodan.io/
+UK Police___UK Police data___https://data.police.uk/docs/
+Whoisfreaks___Domain and DNS related information that will equip organizaion with comprehensive threat intelligence and attack surface analysis capabilities for enhanced security___https://whoisfreaks.com/
+Best Buy___Products, Buying Options, Categories, Recommendations, Stores and Commerce___https://bestbuyapis.github.io/api-documentation/#overview
+Bratabase___Database of different types of Bra Sizes___https://developers.bratabase.com/
+eBay___Sell and Buy on eBay___https://go.developer.ebay.com/
+Wegmans___Wegmans Food Markets___https://dev.wegmans.io/
+Buffer___Access to pending and sent updates in Buffer___https://buffer.com/developers/api
+Cisco Spark___Team Collaboration Software___https://developer.ciscospark.com/
+Dangerous Discord Database___Database of malicious Discord accounts___https://discord.riverside.rocks/docs/index.php
+Discord___Make bots for Discord, integrate Discord onto an external platform___https://discordapp.com/developers/docs/intro
+Disqus___Communicate with Disqus data___https://disqus.com/api/docs/auth/
+Facebook___Facebook Login, Share on FB, Social Plugins, Analytics and more___https://developers.facebook.com/
+Foursquare___Interact with Foursquare users and places (geolocation-based checkins, photos, tips, events, etc)___https://developer.foursquare.com/
+Fuck Off as a Service___Asks someone to fuck off___https://www.foaas.com/
+Full Contact___Get Social Media profiles and contact Information___https://www.fullcontact.com/developer/docs/
+HackerNews___Social news for CS and entrepreneurship___https://github.com/HackerNews/API
+Instagram___Instagram Login, Share on Instagram, Social Plugins and more___https://www.instagram.com/developer/
+Meetup.com___Data about Meetups from Meetup.com___https://www.meetup.com/meetup_api/
+MySocialApp___Seamless Social Networking features, API, SDK to any app___https://mysocialapp.io/
+Open Collective___Get Open Collective data___https://docs.opencollective.com/help/developers/api
+Pinterest___The world's catalog of ideas___https://developers.pinterest.com/
+PWRTelegram bot___Boosted version of the Telegram bot API___https://pwrtelegram.xyz/
+Reddit___Homepage of the internet___https://www.reddit.com/dev/api
+Slack___Team Instant Messaging___https://api.slack.com/
+Telegram Bot___Simplified HTTP version of the MTProto API for bots___https://core.telegram.org/bots/api
+Telegram MTProto___Read and write Telegram data___https://core.telegram.org/api#getting-started
+Trash Nothing___A freecycling community with thousands of free items posted every day___https://trashnothing.com/developer
+Tumblr___Read and write Tumblr Data___https://www.tumblr.com/docs/en/api/v2
+Twitch___Game Streaming API___https://dev.twitch.tv/docs
+Twitter___Read and write Twitter data___https://developer.twitter.com/en/docs
+vk___Read and write vk data___https://vk.com/dev/sites
+SharedCount___apiKey'___http://docs.sharedcount.com/
+balldontlie___Ballldontlie provides access to stats data from the NBA___https://balldontlie.io/
+BikeWise___Bikewise is a place to learn about and report bike crashes, hazards and thefts___https://www.bikewise.org/documentation/api_v2
+Canadian Football League (CFL)___Official JSON API providing real-time league, team and player statistics about the CFL___http://api.cfl.ca/
+Cartola FC___The Cartola FC API serves to check the partial points of your team___https://github.com/wgenial/cartrolandofc
+City Bikes___City Bikes around the world___http://api.citybik.es/v2/
+Ergast F1___F1 data from the beginning of the world championships in 1950___http://ergast.com/mrd/
+Fitbit___Fitbit Information___https://dev.fitbit.com/
+Football (Soccer) Videos___Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more___https://www.scorebat.com/video-api/
+Football Prediction___Predictions for upcoming football matches, odds, results and stats___https://boggio-analytics.com/fp-api/
+Football-Data.org___Football Data___http://api.football-data.org/index
+JCDecaux Bike___JCDecaux's self-service bicycles___https://developer.jcdecaux.com/
+NBA Stats___Current and historical NBA Statistics___https://any-api.com/nba_com/nba_com/docs/API_Description
+NHL Records and Stats___NHL historical data and statistics___https://gitlab.com/dword4/nhlapi
+Sport List & Data___List of and ressources related to sports___https://developers.decathlon.com/products/sports
+Strava___Connect with athletes, activities and more___https://strava.github.io/api/
+SuredBits___Query sports data, including teams, players, games, scores and statistics___https://suredbits.com/api/
+TheSportsDB___Crowd-Sourced Sports Data and Artwork___https://www.thesportsdb.com/api.php
+Wger___Workout manager data as exercises, muscles or equipment___https://wger.de/en/software/api
+CricData___Ultimate Cricket data API - Score, Scorecard, Players data, Fantasy API___https://cricketdata.org/
+Bacon Ipsum___A Meatier Lorem Ipsum Generator___https://baconipsum.com/json-api/
+Beeceptor's CRUD APIs___Free stateful CRUD APIs___https://beeceptor.com/crud-api/?ref=public-api-lists
+Dicebear Avatars___Generate random pixel-art avatars___https://avatars.dicebear.com/
+FakeJSON___Service to generate test and fake data___https://fakejson.com/
+JSONPlaceholder___Fake data for testing and prototyping___http://jsonplaceholder.typicode.com/
+Loripsum___The "lorem ipsum" generator that doesn't suck___http://loripsum.net/
+Micro-Jaymock___Tiny API mocking microservice for generating fake JSON data___https://micro-jaymock.now.sh/
+RandomUser___Generates random user data___https://randomuser.me/
+RoboHash___Generate random robot/alien avatars___https://robohash.org/
+This Person Does not Exist___Generates real-life faces of people who do not exist___https://thispersondoesnotexist.com/
+UI Names___Generate random fake names___https://github.com/thm/uinames
+UUID Generator___Generate UUIDs___https://www.uuidtools.com/docs
+Yes No___Generate yes or no randomly___https://yesno.wtf/api
+Randommer___Random data generator___https://randommer.io/randommer-api
+Softwium___Test data for testing and prototyping___https://softwium.com/fake-api/
+Aylien Text Analysis___A collection of information retrieval and natural language APIs___http://docs.aylien.com/
+Cloudmersive Natural Language Processing___Natural language processing and text analysis___https://www.cloudmersive.com/nlp-api
+Detect Language___Detects text language___https://detectlanguage.com/
+Google Cloud Natural___Natural language understanding technology, including sentiment, entity and syntax analysis___https://cloud.google.com/natural-language/docs/
+ParallelDots AI APIs___Suite of Text Analysis APIs such as sentiment analysis, keyword extract and named entity extraction___https://apis.paralleldots.com/text_docs/index.html
+Semantira___Text Analytics with sentiment analysis, categorization & named entity extraction___https://semantria.readme.io/docs
+Watson Natural Language Understanding___Natural language processing for advanced text analysis___https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/
+Yomi___Japanese tokenizer and morphological analysis web API___https://github.com/ookii-tsuki/yomi
+Postmon___An API to query Brazilian ZIP codes and orders easily, quickly and free___http://postmon.com.br/
+Sweden___Provides information about parcels in transport___https://developer.postnord.com/docs2
+UPS___Shipment and Address information___https://www.ups.com/upsdeveloperkit
+WhatPulse___Small application that measures your keyboard/mouse usage___https://whatpulse.org/pages/webapi/
+ADS-B Exchange___Access real-time and historical data of any and all airborne aircraft___https://www.adsbexchange.com/data/
+AIS Web___Aeronautical information in digital media produced by the Department of Airspace Control (DECEA)___http://www.aisweb.aer.mil.br/api/doc/index.cfm
+Amadeus Travel Innovation Sandbox___Travel Search - Limited usage___https://sandbox.amadeus.com/
+Bay Area Rapid Transit___Stations and predicted arrivals for BART___http://api.bart.gov/
+Unofficial BART API___Stable version of BART's legacy API___https://bart.trentwil.es/
+BlaBlaCar___Search car sharing trips___https://dev.blablacar.com/
+Community Transit___Transitland API___https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints
+GraphHopper___A-to-B routing with turn-by-turn instructions___https://graphhopper.com/api/1/docs/
+Icelandic APIs___Open APIs that deliver services in or regarding Iceland___http://docs.apis.is/
+Izi___Audio guide for travellers___http://api-docs.izi.travel/
+Metro Lisboa___Delays in subway lines___http://app.metrolisboa.pt/status/getLinhas.php
+Navitia___The open API for building cool stuff with transport data___https://api.navitia.io/
+Open Charge Map___Global public registry of electric vehicle charging locations___https://openchargemap.org/site/develop/api
+REFUGE Restrooms___Provides safe restroom access for transgender, intersex and gender nonconforming individuals___https://www.refugerestrooms.org/api/docs/#!/restrooms
+Schiphol Airport___Schiphol___https://developer.schiphol.nl/
+TransitLand___Transit Aggregation___https://transit.land/documentation/datastore/api-endpoints.html
+Transport for Atlanta, US___Marta___http://www.itsmarta.com/app-developer-resources.aspx
+Transport for Auckland, New Zealand___Auckland Transport___https://api.at.govt.nz/
+Transport for Belgium___Belgian transport API___https://hello.irail.be/api/
+Transport for Bordeaux, France___Bordeaux Métropole public transport and more (France)___https://opendata.bordeaux-metropole.fr/explore/
+Transport for Boston, US___MBTA API___https://mbta.com/developers/v3-api
+Transport for Budapest, Hungary___Budapest public transport API___https://bkkfutar.docs.apiary.io/
+Transport for Chicago, US___CTA___http://www.transitchicago.com/developers/
+Transport for Czech Republic___Czech transport API___https://www.chaps.cz/eng/products/idos-internet
+Transport for Denver, US___RTD___http://www.rtd-denver.com/gtfs-developer-guide.shtml
+Transport for Finland___Finnish transport API___https://digitransit.fi/en/developers/
+Transport for Germany___Deutsche Bahn (DB) API___http://data.deutschebahn.com/dataset/api-fahrplan
+Transport for Grenoble, France___Grenoble public transport___https://data.mobilites-m.fr/donnees
+Transport for Honolulu, US___Honolulu Transportation Information___http://hea.thebus.org/api_info.asp
+Transport for India___India Public Transport API___https://data.gov.in/sector/transport
+Transport for Lisbon, Portugal___Data about buses routes, parking and traffic___https://emel.city-platform.com/opendata/
+Transport for London, England___TfL API___https://api.tfl.gov.uk/
+Transport for Manchester, England___TfGM transport network data___https://developer.tfgm.com/
+Transport for Ottawa, Canada___OC Transpo next bus arrival API___http://www.octranspo.com/index.php/developers
+Transport for Paris, France___Live schedules made simple___http://restratpws.azurewebsites.net/swagger/
+Transport for Paris, France___RATP Open Data API___http://data.ratp.fr/api/v1/console/datasets/1.0/search/
+Transport for Philadelphia, US___SEPTA APIs___http://www3.septa.org/hackathon/
+Transport for Sao Paulo, Brazil___SPTrans___http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/
+Transport for Sweden___Public Transport consumer___https://www.trafiklab.se/api
+Transport for Switzerland___Official Swiss Public Transport Open Data___https://opentransportdata.swiss/en/
+Transport for Switzerland___Swiss public transport API___https://transport.opendata.ch/
+Transport for The Netherlands___NS, only trains___http://www.ns.nl/reisinformatie/ns-api
+Transport for The Netherlands___OVAPI, country-wide public transport___https://github.com/skywave/KV78Turbo-OVAPI/wiki
+Transport for Toronto, Canada___TTC___https://myttc.ca/developers
+Transport for United States___NextBus API___http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf
+Transport for Vancouver, Canada___TransLink___https://developer.translink.ca/
+Transport for Washington, US___Washington Metro transport API___https://developer.wmata.com/
+Uber___Uber ride requests and price estimation___https://developer.uber.com/products
+WhereIsMyTransport___Platform for public transport data in emerging cities___https://developer.whereismytransport.com/
+Bitly___URL shortener and link management___http://dev.bitly.com/get_started.html
+CleanURI___URL shortener service___https://cleanuri.com/docs
+ClickMeter___Monitor, compare and optimize your marketing links___https://support.clickmeter.com/hc/en-us/categories/201474986
+Rebrandly___Custom URL shortener for sharing branded links___https://developers.rebrandly.com/v1/docs
+F4NSIX___URL shortener and track shorten urls___https://www.f4nsix.xyz/api/docs
+Brazilian Vehicles and Prices___Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe___https://deividfortuna.github.io/fipe/
+CarsXE API___Vehicle data and vin decoder, specs, plates, market value, ownership cost and images___https://api.carsxe.com/?ref=public-apis-github
+Kelley Blue Book___Vehicle info, pricing, configuration, plus much more___http://developer.kbb.com/#!/data/1-Default
+Mercedes-Benz___Telematics data, remotely access vehicle functions, car configurator, locate service dealers___https://developer.mercedes-benz.com/apis
+NHTSA___NHTSA Product Information Catalog and Vehicle Listing___https://vpic.nhtsa.dot.gov/api/
+Smartcar___Lock and unlock vehicles and get data like odometer reading and location. Works on most new cars___https://smartcar.com/docs/
+An API of Ice And Fire___Game Of Thrones API___https://anapioficeandfire.com/
+Breaking Bad Quotes___Some Breaking Bad quotes___https://github.com/shevabam/breaking-bad-quotes
+Czech Television___TV programme of Czech TV___http://www.ceskatelevize.cz/xml/tv-program/
+Dailymotion___Dailymotion Developer API___https://developer.dailymotion.com/
+Dune___Dune API___https://github.com/ywalia01/dune-api
+Harry Potter___Harry Potter API___https://www.potterapi.com/
+Open Movie Database___Movie information___http://www.omdbapi.com/
+Owen Wilson Wow___API for actor Owen Wilson's "wow" exclamations in movies___https://owen-wilson-wow-api.onrender.com/
+Potter DB___Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions___https://potterdb.com/
+Ron Swanson Quotes___Television___https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
+South Park Quotes___A pretty simple API to let you retrieve some of the best quotes from South Park, mmkay!___https://github.com/Thatskat/southpark-quotes-api
+STAPI___Information on all things Star Trek___https://stapi.co/
+TMDb___Community-based movie data___https://www.themoviedb.org/documentation/api
+Trakt___Movie and TV Data___https://trakt.tv/b/api-docs
+TVDB___Television data___https://api.thetvdb.com/swagger
+TVMaze___TV Show Data___http://www.tvmaze.com/api
+Vimeo___Vimeo Developer API___https://developer.vimeo.com/
+YouTube___Add YouTube functionality to your sites and apps___https://developers.google.com/youtube/
+Shotstack___Develop video applications with cloud-based video editing API___https://shotstack.io/
+7Timer!___Weather, especially for Astroweather___http://www.7timer.info/doc.php?lang=en
+APIXU___Weather___https://www.apixu.com/doc/request.aspx
+Dark Sky___Weather___https://darksky.net/dev/
+Meteorologisk Institutt___Weather and climate data___https://api.met.no/weatherapi/documentation
+NOAA Climate Data___Weather and climate data___https://www.ncdc.noaa.gov/cdo-web/
+ODWeather___Weather and weather webcams___http://api.oceandrivers.com/static/docs.html
+Open-Meteo___Global weather forecast API for non-commercial use___https://open-meteo.com/
+OpenUV___Real-time UV Index Forecast___https://www.openuv.io/
+OpenWeatherMap___Weather___http://openweathermap.org/api
+Storm Glass___Global marine weather from multiple sources___https://stormglass.io/
+Weather Hacks___Weather, for Japan___http://weather.livedoor.com/weather_hacks/
+Weatherbit___Weather___https://www.weatherbit.io/api
+Yahoo! Weather___Weather___https://developer.yahoo.com/weather/

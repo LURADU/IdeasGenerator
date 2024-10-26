@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="ro" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generator de Idei de Proiecte Java</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f0f4f8;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+        button, input, select {
+            padding: 10px 15px;
+            font-size: 16px;
+            margin-right: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #3498db;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button{
+            margin-top : 2px;
+        }
+        #developSection, #downloadSection{
+            margin-top: 10px !important;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+        input[type="number"] {
+            width: 60px;
+            background-color: white;
+            color: #333;
+            border: 1px solid #bdc3c7;
+        }
+        #ideasList, #developedIdea {
+            margin-top: 20px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        ol {
+            list-style-position: inside;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 10px;
+            padding: 10px;
+            background-color: #ecf0f1;
+            border-radius: 5px;
+        }
+
+        #developedIdea h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        #developedIdea h3 {
+            color: #34495e;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        #developedIdea p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        #developedIdea ul, #developedIdea ol {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        #developedIdea li {
+            margin-bottom: 5px;
+        }
+        #developedIdea pre {
+            background-color: #f8f9fa;
+            border: 1px solid #e9ecef;
+            border-radius: 4px;
+            padding: 10px;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        #conversationSection {
+            margin-top: 20px;
+            background-color: #e8f6f3;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        #conversationInput {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #bdc3c7;
+            border-radius: 5px;
+        }
+        #conversationOutput {
+            background-color: white;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 15px;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+<h1>Generator de Idei de Proiecte Java pentru Juniori</h1>
+<p id="message" th:text="${message}">Mesaj de test</p>
+
+<button onclick="generateIdeas()">Generează Idei</button>
+<div id="ideasList"></div>
+
+<div id="developSection" style="display: none;">
+    <select id="selectedIdea"></select>
+    <label for="developmentLevel">Nivel de dezvoltare (1-10):</label>
+    <input type="number" id="developmentLevel" min="1" max="10" value="5">
+    <button onclick="developIdea()">Dezvoltă Ideea</button>
+</div>
+
+<div id="developedIdea"></div>
+
+<div id="downloadSection" style="display: none;">
+    <button onclick="downloadPdf()">Descarcă PDF</button>
+</div>
+
+<div id="conversationSection" style="display: none;">
+    <h3>Continuă Conversația:</h3>
+    <textarea id="conversationInput" rows="4" placeholder="Introduceți întrebarea sau comentariul dvs. aici..."></textarea>
+    <button onclick="continueConversation()">Trimite</button>
+    <div id="conversationOutput"></div>
+</div>
+
+<script>
+    // JavaScript-ul rămâne neschimbat
+    let generatedIdeas = [];
+    let developedIdeaText = '';
+    let conversationHistory = '';
+
+    function generateIdeas() {
+        document.getElementById('ideasList').innerHTML = 'Se generează idei...';
+        document.getElementById('developSection').style.display = 'none';
+        document.getElementById('developedIdea').innerHTML = '';
+        document.getElementById('downloadSection').style.display = 'none';
+
+        fetch('/generate-project')
+            .then(response => response.json())
+            .then(data => {
+                console.log('Răspuns primit:', data);
+                const ideasList = document.getElementById('ideasList');
+                if (Array.isArray(data) && data.length > 0) {
+                    generatedIdeas = data;
+                    console.log(data)
+                    ideasList.innerHTML = '<h2>Idei Generate:</h2>';
+                    const orderList = document.createElement("ol");
+                    data.forEach((idea) => {
+                        let ideaElement = document.createElement("li");
+                        ideaElement.innerText = idea
+                        orderList.appendChild(ideaElement)
+                    });
+                    ideasList.appendChild(orderList)
+                    populateIdeaSelector();
+                    document.getElementById('developSection').style.display = 'block';
+                } else {
+                    ideasList.innerHTML = 'Nu s-au putut genera idei. Te rugăm să încerci din nou.';
+                }
+            })
+            .catch(error => {
+                console.error('Eroare:', error);
+                document.getElementById('ideasList').innerHTML = 'A apărut o eroare la generarea ideilor. Te rugăm să încerci din nou.';
+            });
+    }
+
+    function populateIdeaSelector() {
+        const selector = document.getElementById('selectedIdea');
+        selector.innerHTML = '';
+        generatedIdeas.forEach((idea, index) => {
+            const option = document.createElement('option');
+            option.value = index;
+            option.textContent = `Idea ${index + 1}`;
+            selector.appendChild(option);
+        });
+    }
+
+    function developIdea() {
+        const selectedIndex = document.getElementById('selectedIdea').value;
+        const selectedIdea = generatedIdeas[selectedIndex];
+        const developmentLevel = document.getElementById('developmentLevel').value;
+
+        if (developmentLevel < 1 || developmentLevel > 10) {
+            alert('Te rugăm să introduci un număr între 1 și 10.');
+            return;
+        }
+
+        document.getElementById('developedIdea').innerHTML = 'Se dezvoltă ideea...';
+        document.getElementById('downloadSection').style.display = 'none';
+
+        fetch(`/develop-project?idea=${encodeURIComponent(selectedIdea)}&level=${developmentLevel}`)
+            .then(response => response.text())
+            .then(data => {
+                console.log('Răspuns primit:', data);
+                developedIdeaText = data;
+
+                const formattedIdea = formatDevelopedIdea(data);
+
+                document.getElementById('developedIdea').innerHTML = `
+                        <h2>Idee Dezvoltată:</h2>
+                        ${formattedIdea}
+                    `;
+                document.getElementById('downloadSection').style.display = 'block';
+                document.getElementById('conversationSection').style.display = 'block';
+                conversationHistory = `Idee inițială: ${selectedIdea}\n\nDezvoltare idee:\n${data}\n\n`;
+            })
+            .catch(error => {
+                console.error('Eroare:', error);
+                document.getElementById('developedIdea').innerHTML = 'A apărut o eroare la dezvoltarea ideii. Te rugăm să încerci din nou.';
+            });
+    }
+
+    function continueConversation() {
+        const userInput = document.getElementById('conversationInput').value;
+        if (!userInput.trim()) return;
+
+        const conversationOutput = document.getElementById('conversationOutput');
+        conversationOutput.innerHTML += `<strong>Tu:</strong> ${userInput}\n\n`;
+        conversationOutput.scrollTop = conversationOutput.scrollHeight;
+
+        conversationHistory += `Întrebare: ${userInput}\n`;
+
+        fetch('/continue-conversation', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                conversation: conversationHistory,
+                userInput: userInput
+            }),
+        })
+            .then(response => response.text())
+            .then(data => {
+                conversationOutput.innerHTML += `<strong>Asistent:</strong> ${data}\n\n`;
+                conversationOutput.scrollTop = conversationOutput.scrollHeight;
+                conversationHistory += `Răspuns: ${data}\n\n`;
+                document.getElementById('conversationInput').value = '';
+
+                // Actualizăm butonul de descărcare PDF pentru a include ultima conversație
+                updatePdfDownloadButton();
+            })
+            .catch(error => {
+                console.error('Eroare:', error);
+                conversationOutput.innerHTML += 'A apărut o eroare. Te rugăm să încerci din nou.\n\n';
+            });
+    }
+
+
+    function formatDevelopedIdea(idea) {
+        // Split the idea into sentences
+        const sentences = idea.split(/(?<=[.!?])\s+/);
+        let formattedIdea = '';
+        let currentParagraph = '';
+
+        sentences.forEach((sentence, index) => {
+            // Start a new paragraph for sentences that look like headings
+            if (sentence.length < 50 && sentence.endsWith(':')) {
+                if (currentParagraph) {
+                    formattedIdea += `<p>${currentParagraph}</p>`;
+                    currentParagraph = '';
+                }
+                formattedIdea += `<h3>${sentence}</h3>`;
+            }
+            // Handle list items
+            else if (sentence.match(/^\d+\.\s/) || sentence.startsWith('- ')) {
+                if (currentParagraph) {
+                    formattedIdea += `<p>${currentParagraph}</p>`;
+                    currentParagraph = '';
+                }
+                if (!formattedIdea.endsWith('</ul>') && !formattedIdea.endsWith('</ol>')) {
+                    formattedIdea += sentence.startsWith('- ') ? '<ul>' : '<ol>';
+                }
+                formattedIdea += `<li>${sentence.replace(/^\d+\.\s|-\s/, '')}</li>`;
+                if (index === sentences.length - 1 || !sentences[index + 1].match(/^\d+\.\s/) && !sentences[index + 1].startsWith('- ')) {
+                    formattedIdea += sentence.startsWith('- ') ? '</ul>' : '</ol>';
+                }
+            }
+            // Add to current paragraph
+            else {
+                currentParagraph += sentence + ' ';
+            }
+
+            // End the paragraph if it's getting long or it's the last sentence
+            if (currentParagraph.length > 200 || index === sentences.length - 1) {
+                if (currentParagraph) {
+                    formattedIdea += `<p>${currentParagraph.trim()}</p>`;
+                    currentParagraph = '';
+                }
+            }
+        });
+
+        return formattedIdea;
+    }
+
+   
+
+    function downloadPdf() {
+        const selectedIndex = document.getElementById('selectedIdea').value;
+        const selectedIdea = generatedIdeas[selectedIndex];
+        const developmentLevel = document.getElementById('developmentLevel').value;
+
+        const formattedConversation = formatConversationForPdf(conversationHistory);
+
+        fetch('/download-pdf', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                idea: selectedIdea,
+                development: developedIdeaText,
+                level: developmentLevel,
+                conversation: formattedConversation
+            }),
+        })
+            .then(response => response.blob())
+            .then(blob => {
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.style.display = 'none';
+                a.href = url;
+                a.download = 'project_idea.pdf';
+                document.body.appendChild(a);
+                a.click();
+                window.URL.revokeObjectURL(url);
+            })
+            .catch(error => console.error('Error:', error));
+    }
+
+    function formatConversationForPdf(conversation) {
+        const lines = conversation.split('\n');
+        let formattedConversation = '';
+        let isQuestion = true;
+
+        for (let line of lines) {
+            if (line.trim() === '') continue;
+            if (line.startsWith('Întrebare:')) {
+                formattedConversation += '\n\nÎntrebare: ' + line.substring(10).trim() + '\n';
+                isQuestion = false;
+            } else if (line.startsWith('Răspuns:')) {
+                formattedConversation += 'Răspuns: ' + line.substring(8).trim() + '\n';
+                isQuestion = true;
+            } else if (isQuestion) {
+                formattedConversation += 'Întrebare: ' + line.trim() + '\n';
+                isQuestion = false;
+            } else {
+                formattedConversation += 'Răspuns: ' + line.trim() + '\n';
+                isQuestion = true;
+            }
+        }
+
+        return formattedConversation;
+    }
+</script>
+</body>
+</html>
